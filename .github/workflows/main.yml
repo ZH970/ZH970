@@ -25,10 +25,11 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=ZH970&screen_effect=false&theme=fuji&dithering=true&hide=avatar
-            dist/github-stats-dark?username=ZH970&theme=fuji&hide=avatar&avatar_border=false&screen_effect=true
-            dist/github-stats-crt?username=ZH970&theme=crt&dithering=true&hide=avatar&screen_effect=false
-            dist/github-stats-lax?username=ZH970&theme=lax&dithering=true&hide=avatar&screen_effect=false
+            dist/github-stats?username=ZH970&screen_effect=false&theme=fuji&dithering=true&hide=rank
+            dist/github-stats-dark?username=ZH970&theme=fuji&hide=rank&avatar_border=false&screen_effect=true
+            dist/github-stats-crt?username=ZH970&theme=crt&dithering=true&hide=rank&screen_effect=false
+            dist/github-stats-lax?username=ZH970&theme=lax&dithering=true&hide=rank&screen_effect=false
+            dist/github-stats-journey?username=ZH970&theme=journey&dithering=true&hide=rank&screen_effect=false
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page

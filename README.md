@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture decoding="async" loading="lazy">
-  <!-- <source media="(prefers-color-scheme: summer)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ZH970&theme=summer">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZH970/ZH970/output/github-stats.png">
-  <source media="(prefers-color-scheme: )" srcset="https://raw.githubusercontent.com/ZH970/ZH970/output/github-stats-lax.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZH970/ZH970/output/github-stats-crt.png">
-  <source media="(prefers-color-scheme: blue_chill)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=ZH970&screen_effect=true&theme=blue_chill"> -->
-  <img alt="github status" src="https://raw.githubusercontent.com/ZH970/ZH970/output/github-stats-crt.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZH970/ZH970/output/github-stats-crt.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZH970/ZH970/output/github-stats-journey.png">
+  <img alt="github status" src="https://raw.githubusercontent.com/ZH970/ZH970/output/github-stats-journey.png">
 </picture>
